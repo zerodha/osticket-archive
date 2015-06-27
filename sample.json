@@ -1,0 +1,54 @@
+{
+    "id": "788823",
+    "department": "Incoming",
+    "subject": "Need help on this",
+    "opened": "2014-03-03 12:29:09",
+    "closed": "2014-12-19 14:16:21",
+    "owner": "John Smith <john@smith.com>",
+    "thread": [
+        {
+            "id": "1423",
+            "staff_id": "0",
+            "thread_type": "M",
+            "poster": "",
+            "subject": "Need help on this",
+            "body": " <div dir=\"ltr\"><br \/><br \/><div><hr \/>Date: Tue, 3 Dec 2013 18:32:31 +0530<br \/></div></div>",
+            "created": "2014-03-03 12:29:10",
+            "updated": "0000-00-00 00:00:00",
+            "attachments": "0"
+        },
+        {
+            "id": "1424",
+            "staff_id": "0",
+            "thread_type": "N",
+            "poster": "SYSTEM (Auto Assignment)",
+            "title": "Ticket Assigned to Tech Support",
+            "body": "Auto Assignment",
+            "created": "2014-03-03 12:29:10",
+            "updated": "0000-00-00 00:00:00",
+            "attachments": "0"
+        },
+        {
+            "id": "1481",
+            "staff_id": "18",
+            "thread_type": "N",
+            "poster": "Rick",
+            "title": "Ticket Assigned to John",
+            "body": "Kindly do the needful.",
+            "created": "2014-03-03 13:10:08",
+            "updated": "0000-00-00 00:00:00",
+            "attachments": "0"
+        },
+        {
+            "id": "1712",
+            "staff_id": "30",
+            "thread_type": "R",
+            "poster": "John",
+            "title": "",
+            "body": "Dear user, this issue is resolved.",
+            "created": "2014-03-03 16:35:41",
+            "updated": "0000-00-00 00:00:00",
+            "attachments": "0"
+        }
+   ]
+}
